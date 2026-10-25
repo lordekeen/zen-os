@@ -750,6 +750,12 @@ msgstr "Badge size"
 
 #. Type: setting
 #. Context: Settings label in the Library appearance and behavior settings.
+#: library_settings.lua:335 library_settings.lua:348
+msgid "Badge text size"
+msgstr "Badge text size"
+
+#. Type: setting
+#. Context: Settings label in the Library appearance and behavior settings.
 #: library_settings.lua:253
 msgid "Badges"
 msgstr "Badges"
@@ -4251,6 +4257,12 @@ msgstr "Open ZenPM"
 #: opening_banner.lua:472
 msgid "Opening"
 msgstr "Opening"
+
+#. Type: setting
+#. Context: Settings label in the Library appearance and behavior settings.
+#: library_settings.lua:364 library_settings.lua:374
+msgid "Opening overlay text size"
+msgstr "Opening overlay text size"
 
 #. Type: setting
 #. Context: Settings label in the Reader appearance and behavior settings.
